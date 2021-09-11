@@ -1,3 +1,3 @@
 # MARATÓN | maratonadev-la
 
-Desafios de la <Maraton/> de IBM - 2020
+Desafios de la Maratón de IBM - 2020
